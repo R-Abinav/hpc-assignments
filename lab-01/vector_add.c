@@ -53,6 +53,10 @@ int main(void){
 
         double exec_time = e_time - s_time;
         printf("%d thread(s) exec time: %f\n", threads[i], exec_time);
+
+        //speedup calc
+
+        //
     }
     return 0;
 }
